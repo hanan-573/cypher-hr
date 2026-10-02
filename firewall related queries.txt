@@ -1,0 +1,5 @@
+firewall open krnay ka tareeqa:
+window+R 
+wf.msc then open 
+so firewall page open 
+inbound and outbound traffic are showing
